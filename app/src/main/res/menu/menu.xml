@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/USA"
+        android:icon="@mipmap/usa"
+        android:title="USA"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/PAKISTAN"
+        android:enabled="true"
+        android:icon="@mipmap/pakistan"
+        app:showAsAction="always"
+        android:title="Pakistan" />
+</menu>
